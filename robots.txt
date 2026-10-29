@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /contact_mail.php
+Disallow: /fqdispatch/
+Disallow: /RippleItt/
+Disallow: /public_html/
+Disallow: /travoweb.acuratechglobal.com/
+
+Sitemap: https://www.acuratechglobal.com/sitemap.xml
